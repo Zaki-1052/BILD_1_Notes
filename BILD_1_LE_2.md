@@ -12,6 +12,12 @@ date: 1/10
 
 ## Review
 
+- Cell Theory of life:
+	- lipid membrane = cell
+	- virus = protein shell
+		- no membrane
+			- not alive
+
 ### Life Definitions
 
 - Ecosystem definition of life:
@@ -132,10 +138,142 @@ date: 1/10
 #### Big Idea
 
 - **Big Idea: Some organelles were likely once free-living bacteria!**
-	- Like the mitochondrion!
-	- (And the chloroplast!)
+	- Like the **mitochondrion**!
+	- (And the **chloroplast**!)
 		- They have their own DNA and resemble bacteria internally.
-		- This idea is called endosymbiotic theory.
+		- This idea is called **endosymbiotic theory**.
+
+structure and function of the **molecules** that make up cells:
+
+## Biological Macromolecules
+
+### Learning Objectives
+
+- **Distinguish between a covalent bond, ionic bond, and hydrogen bond in terms of the energy needed to break it and what types of atoms can engage in the bond.**
+- Use a molecule’s chemical structure to predict whether it will be hydrophobic or hydrophilic.
+
+### Cell Structure
+
+#### Big Idea
+
+- Prokaryotes and Eukaryotes are made from the same types of macromolecules:
+	- Carbohydrates
+	- Proteins
+	- Nucleic Acids
+	- Lipids
+
+#### Classes of Biological Macromolecules
+
+##### Carbohydrates
+- Plant structure
+- Energy
+- Starch
+- Energy
+- Sugar
+##### Proteins
+- Perform functions
+- Make reactions
+- Prions
+- Muscle
+##### Nucleic Acids
+- DNA
+- RNA
+- Stores Information
+##### Lipids
+- Fats
+- Membranes
+- Energy Storage
+- Cholesterol
+
+### Big Idea
+
+- Molecules are made of **atoms**. 
+	- Atoms are connected by **bonds**.
+		- *Note: whenever there’s a bend and we don’t write an atom’s symbol, you can assume there is a Carbon there and possibly some number of hydrogens connected to it.*
+- Question:
+	- This molecule is a form of thyroid hormone, which is crucial for normal growth and brain development. To make it, you need to eat iodine atoms. Why can’t the body just make iodine?
+		- Only nuclear reactions, like those in stars or as part of radioactivity, can make or destroy atoms.
+		- However, once you have atoms inside your body, you can mix and remix them to make different molecules (if you have the right proteins that can help).
+
+### Bonds
+
+#### Water
+
+- Water is necessary for life.
+- The body’s chemical reactions take place in water.
+- Water forms polar **covalent bonds** and **hydrogen bonds**.
+	- Hydrogen bonds are:
+		- Weak bonds
+
+#### Chemical Bonds
+
+##### Ionic Bonds
+- Ionic Bonds: Takes all electrons
+- End result:
+	- One atom gets a + charge
+	- Another atom gets a - charge
+##### Covalent Bonds
+- Covalent Bonds: Shares electrons between them
+	- But electrons are not always shared equally
+- Some atoms attract electrons more than others
+	- Increasing ability to attract electrons
+		- --> Across a period -->
+	- In chemistry, the ability to attract electrons is called **electronegativity**.
+- **Nonpolar bonds**: 
+	- are covalent bonds where the atoms share electrons equally: 
+		- C-C, C-H
+- **Polar bonds**:
+	- are covalent bonds where the atoms share electrons unequally: 
+		- O-H, N-H, C-O, C-N
+##### Hydrogen Bonds
+- **Hydrogen Bonds**: 
+	- When the electrons next to atom are attractive.
+	- Partial + charge on one atom is attracted to partial - charge on another atom.
+		- …between water molecules
+		- …between DNA molecules
+
+#### Key Ideas
+
+##### Bonds in Water
+
+-  The oxygen is connected to the hydrogen by single **polar covalent bonds**.
+- **Oxygen is attracted to hydrogens** on other molecules through **hydrogen bonds**.
+
+### Macromolecules Objectives
+
+- **Use a molecule’s chemical structure to predict whether it will be hydrophobic or hydrophilic.**
+
+#### Process
+- Most molecules in a cell move freely in water...but sometimes cells must keep them separate.
+	- Enzyme breaks down proteins
+	- Barrier between two compartments that does NOT mix with water
+- Oil and Water Don't Mix
+
+#### Hydrophobic vs. Hydrophilic
+
+- Oil and other things that have mostly **nonpolar bonds** (**hydrophobic**).
+	- **Bonds without charges** are not attracted to water but are to each other.
+- Water, and things with lots of **polar covalent or ionic bonds** (**hydrophilic**).
+	- The partial + and - charges on water are attracted to other **partial or full charges**.
+
+##### Example
+
+- Oleic Acid
+	- 18 Carbons
+		- Every time there is a point/bend
+- Bonds and Polarity:
+	- **Hydrophobic**
+		- most of the bonds are nonpolar C-C and C-H bonds.
+			- olive oil
+- Cows can develop a brain disease calledbovine spongiform encephalopathy (BSE), better known as mad cow disease. If people eat the meat of a diseased cow, they can get the disease too. What do you think the agent that causes BSE has?
+	- A. Protein
+
+| Bonds                 | Polarity |
+| --------------------- | -------- |
+| Many C-C Bonds        | Nonpolar |
+| Many, many, C-H Bonds | Nonpolar |
+| 2 C-O bonds           | Polar    |
+| 1 O-H                 | Polar    |
 
 
 ---
