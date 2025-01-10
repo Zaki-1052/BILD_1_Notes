@@ -115,4 +115,4 @@ date: 1/8
 
 ---
 
-Next: [BILD 1 Lecture 2](BILD_1_LE_2)
+Next: [BILD 1 Lecture 2](BILD_1_LE_2.md)

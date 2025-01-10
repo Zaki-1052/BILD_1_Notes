@@ -278,5 +278,5 @@ structure and function of the **molecules** that make up cells:
 
 ---
 
-Previous: [BILD 1 Lecture 1](BILD_1_LE_1)
-Next: [BILD 1 Lecture 3](BILD_1_LE_3)
+Previous: [BILD 1 Lecture 1](BILD_1_LE_1.md)
+Next: [BILD 1 Lecture 3](BILD_1_LE_3.md)

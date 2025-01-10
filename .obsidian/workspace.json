@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7e0544bba040aaec",
@@ -221,11 +222,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "65b2e9537c45ceab",
+  "active": "b8e2e9f18fb974d5",
   "lastOpenFiles": [
     "BILD_1_LE_1.md",
-    "BILD_1_LE_2.md",
     "_templates/lecture_template.md.md",
+    "BILD_1_LE_2.md",
     "_templates",
     "BILD_5/Lectures/BILD_5_Lectures.md",
     "BILD_5/Lectures/BILD_5_LE_1.md",
