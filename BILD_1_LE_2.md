@@ -80,7 +80,7 @@ date: 1/10
 
 #### Prokaryotes
 
-- • Bacteria, archaea
+- Bacteria, archaea
 - No membrane-bound nucleus
 - No membrane-bound organelles
 - Usually smaller, single-celled
@@ -88,8 +88,8 @@ date: 1/10
 
 #### Prokaryotic Cell
 
--  **DNA**, but not in a nucleus
-• **Ribosomes** (which make proteins) and other things, but nothing with a membrane around it
+- **DNA**, but not in a nucleus
+- **Ribosomes** (which make proteins) and other things, but nothing with a membrane around it
 
 #### Eukaryotes
 
