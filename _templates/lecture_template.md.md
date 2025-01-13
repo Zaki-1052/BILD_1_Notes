@@ -16,8 +16,8 @@ date: <% tp.date.now("M/D") %>
 
 <%*
 let num = Number(tp.file.title.split("_")[3]);
-let prev = num > 1 ? `Previous: [BILD 1 Lecture ${num-1}](BILD_1_LE_${num-1}).md` : "";
-let next = num < 30 ? `Next: [BILD 1 Lecture ${num+1}](BILD_1_LE_${num+1}).md` : "";
+let prev = num > 1 ? `Previous: [BILD 1 Lecture ${num-1}](BILD_1_LE_${num-1}.md).` : "";
+let next = num < 30 ? `Next: [BILD 1 Lecture ${num+1}](BILD_1_LE_${num+1}.md).` : "";
 if (prev && next) {
     tR += prev + "\n" + next;
 } else {

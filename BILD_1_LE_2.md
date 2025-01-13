@@ -7,8 +7,8 @@ date: 1/10
 
 # BILD 1 Lecture 2
 - ## 1/10
-	- ### Size/Scale
-	- ### Bonds
+	- ## Size/Scale
+	- ## Bonds
 
 ## Review
 
