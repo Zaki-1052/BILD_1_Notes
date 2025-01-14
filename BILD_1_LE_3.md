@@ -35,7 +35,7 @@ date: 1/13
 - O and N “attract” electrons more strongly than C and H, so O-H, O-C, N-C, N-H bonds are “polar” (partially charged).
 	- C-H and C-C bonds are non-polar
 - Things that are polar attract other things that are polar or charged and repel non-polar things.
-- + and – charges attract.
+- \+ and – charges attract.
 
 ### Bonds in Water
 
