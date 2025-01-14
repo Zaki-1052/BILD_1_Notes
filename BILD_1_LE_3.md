@@ -174,7 +174,7 @@ date: 1/13
 		- (H)
 	4. **The Side Chain**
 #### Side Chain Types
-![[sideChains 1.png]]
+![[sideChains.png]]
 - Note on chemical structures: A full + or – charge will always be indicated. 
 - A partial charge usually won’t be.
 ##### Amino acids joining together
