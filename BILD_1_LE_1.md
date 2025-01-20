@@ -50,8 +50,8 @@ date: 1/8
 
 #### Definition
 
-- **All cells have an *<u>outer layer (membrane)</u>***, made of lipids and proteins, **that regulates what**
-**enters and leaves the cell**.
+> [!Definition]
+> - All cells have an <u>outer layer (membrane)</u>, *made of lipids and proteins*, that **regulates** what **enters and leaves the cell**.
 
 ### Structure of Viruses
 

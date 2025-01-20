@@ -193,6 +193,10 @@ date: 1/13
 	- Arginine was the only one of the choices that had a + charge in the side chain.
 	- *Problems in proteins that transport Cl- ions can lead to seizures, cystic fibrosis, and other health problems.*
 - How can mad cow disease spread from a cow to a person if prions have no genetic material?
+###### Extra
+- linear order of amino acids in polypeptide chain
+- held together by peptide bonds between amino acids
+- tight coils or flat sheets
 
 ---
 
