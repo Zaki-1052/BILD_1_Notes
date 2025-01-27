@@ -4,7 +4,6 @@ type: lecture
 lecture_num: 4
 date: 1/17
 ---
-
 # BILD 1 Lecture 4
 - ## 1/17
 	- ## Proteins Structure
