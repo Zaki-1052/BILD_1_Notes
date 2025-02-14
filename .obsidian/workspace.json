@@ -13,16 +13,170 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "BILD_1_LE_4.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "BILD_1_LE_4"
+            }
+          },
+          {
+            "id": "c6e60ac224e13f56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "BILD_1_LE_5.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "BILD_1_LE_5"
             }
+          },
+          {
+            "id": "0d3b782df6be1934",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BILD_1_LE_6.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "BILD_1_LE_6"
+            }
+          },
+          {
+            "id": "e37c8249542f7843",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BILD_1_LE_7.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "BILD_1_LE_7"
+            }
+          },
+          {
+            "id": "fead74851b46a6ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BILD_1_LE_8.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "BILD_1_LE_8"
+            }
+          },
+          {
+            "id": "93fcf45ba0dbea05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BILD_1_LE_9.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "BILD_1_LE_9"
+            }
+          },
+          {
+            "id": "a5f24cc21a1dfd2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BILD_1_LE_7.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "BILD_1_LE_7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -41,7 +195,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -221,26 +376,30 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "65b2e9537c45ceab",
+  "active": "c6e60ac224e13f56",
   "lastOpenFiles": [
+    "BILD_1_LE_6.md",
+    "BILD_1_LE_7.md",
+    "BILD_1_LE_9.md",
+    "BILD_1_LE_8.md",
+    "BILD_1_LE_5.md",
+    "- ## 1",
+    "BILD_1_LE_4.md",
+    "BILD_1_LE_3.md",
+    "BILD_1_LE_2.md",
+    "BILD_1_LE_1.md",
     "attachments/concentrationGradients.png",
     "attachments/sodiumPump.png",
     "attachments/pumpProteins.png",
     "attachments/diffusionTypes.png",
     "attachments/phospholipidBilayer.png",
-    "BILD_1_LE_4.md",
-    "BILD_1_LE_5.md",
     "Part_1.md",
     "README.md",
-    "BILD_1_LE_3.md",
-    "BILD_1_LE_2.md",
-    "BILD_1_LE_1.md",
     "attachments/bilayerImage.png",
     "attachments/phospholipidBilayers.png",
     "attachments/phospholipidDiagram.png",
     "attachments/phospholipidImage.png",
     "attachments/sideChainExample.png",
-    "attachments/quaternaryStructure.png",
     "attachments",
     "_templates/lecture_template.md.md",
     "_templates",
@@ -261,13 +420,9 @@
     "BILD_5/Lectures/BILD_5_LE_3.md",
     "BILD_5/Lectures",
     "BILD_5",
-    "CSE_8A/Labs/CSE_8A_Lab_10.md",
-    "CSE_8A/Lectures/CSE_8A_LE_18.md",
-    "CSE_8A/Lectures/CSE_8A_LE_19.md",
     "Projects",
     "PAs",
     "CSE_87_SE",
-    "CSE_8A/Projects",
-    "CSE_8A/PAs"
+    "CSE_8A/Projects"
   ]
 }
