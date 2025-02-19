@@ -4,59 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "009cebbab95ea806",
+        "id": "8ee1075ed06028ee",
         "type": "tabs",
         "children": [
           {
-            "id": "65abfe726b26803f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BILD_1_LE_4.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "BILD_1_LE_4"
-            }
-          },
-          {
-            "id": "c6e60ac224e13f56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BILD_1_LE_5.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "BILD_1_LE_5"
-            }
-          },
-          {
-            "id": "0d3b782df6be1934",
+            "id": "100354e7315da9d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -80,7 +32,7 @@
             }
           },
           {
-            "id": "e37c8249542f7843",
+            "id": "44e6dcaf4ba43a47",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -104,7 +56,7 @@
             }
           },
           {
-            "id": "fead74851b46a6ed",
+            "id": "7555030dad5bd729",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -128,7 +80,7 @@
             }
           },
           {
-            "id": "93fcf45ba0dbea05",
+            "id": "e727517b85bfb218",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -152,12 +104,12 @@
             }
           },
           {
-            "id": "a5f24cc21a1dfd2d",
+            "id": "80a91c84f394abe3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BILD_1_LE_7.md",
+                "file": "BILD_1_LE_10.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -172,11 +124,82 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "BILD_1_LE_7"
+              "title": "BILD_1_LE_10"
+            }
+          },
+          {
+            "id": "8fa0a041a66bce43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BILD_1_LE_11.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "BILD_1_LE_11"
+            }
+          },
+          {
+            "id": "8007d8599d4461bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BILD_1_LE_12.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "BILD_1_LE_12"
+            }
+          },
+          {
+            "id": "e780156cbbcbae66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BILD_1_LE_13.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "BILD_1_LE_13"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -376,12 +399,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c6e60ac224e13f56",
+  "active": "100354e7315da9d3",
   "lastOpenFiles": [
-    "BILD_1_LE_6.md",
-    "BILD_1_LE_7.md",
+    "BILD_1_LE_13.md",
+    "BILD_1_LE_12.md",
+    "BILD_1_LE_11.md",
+    "BILD_1_LE_10.md",
     "BILD_1_LE_9.md",
     "BILD_1_LE_8.md",
+    "BILD_1_LE_7.md",
+    "BILD_1_LE_6.md",
     "BILD_1_LE_5.md",
     "- ## 1",
     "BILD_1_LE_4.md",
@@ -414,10 +441,6 @@
     "BILD_5/Lectures/BILD_5_LE_2.md",
     "_templates/cse_8a_template.md.md",
     "_templates",
-    "CSE_ToC.md",
-    "CSE_8A/Lectures/CSE_8A_LE_1.md",
-    "BILD_5/BILD_5_Work_TOC.md",
-    "BILD_5/Lectures/BILD_5_LE_3.md",
     "BILD_5/Lectures",
     "BILD_5",
     "Projects",
