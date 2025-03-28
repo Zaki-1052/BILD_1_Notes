@@ -8,55 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "100354e7315da9d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BILD_1_LE_6.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "BILD_1_LE_6"
-            }
-          },
-          {
-            "id": "44e6dcaf4ba43a47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BILD_1_LE_7.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "BILD_1_LE_7"
-            }
-          },
-          {
-            "id": "7555030dad5bd729",
+            "id": "5b2fd9a082ef3968",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -80,31 +32,7 @@
             }
           },
           {
-            "id": "e727517b85bfb218",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BILD_1_LE_9.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "BILD_1_LE_9"
-            }
-          },
-          {
-            "id": "80a91c84f394abe3",
+            "id": "b49a28cf1692b68d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -126,80 +54,9 @@
               "icon": "lucide-file",
               "title": "BILD_1_LE_10"
             }
-          },
-          {
-            "id": "8fa0a041a66bce43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BILD_1_LE_11.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "BILD_1_LE_11"
-            }
-          },
-          {
-            "id": "8007d8599d4461bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BILD_1_LE_12.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "BILD_1_LE_12"
-            }
-          },
-          {
-            "id": "e780156cbbcbae66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BILD_1_LE_13.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "BILD_1_LE_13"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -399,28 +256,28 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "100354e7315da9d3",
+  "active": "65b2e9537c45ceab",
   "lastOpenFiles": [
-    "BILD_1_LE_13.md",
-    "BILD_1_LE_12.md",
-    "BILD_1_LE_11.md",
-    "BILD_1_LE_10.md",
     "BILD_1_LE_9.md",
-    "BILD_1_LE_8.md",
+    "BILD_1_LE_3.md",
+    "BILD_1_LE_11.md",
+    "BILD_1_LE_13.md",
     "BILD_1_LE_7.md",
+    "BILD_1_LE_4.md",
+    "BILD_1_LE_10.md",
+    "BILD_1_LE_8.md",
+    "BILD_1_LE_12.md",
+    "BILD_1_LE_2.md",
+    "Part_1.md",
+    "BILD_1_LE_1.md",
     "BILD_1_LE_6.md",
     "BILD_1_LE_5.md",
     "- ## 1",
-    "BILD_1_LE_4.md",
-    "BILD_1_LE_3.md",
-    "BILD_1_LE_2.md",
-    "BILD_1_LE_1.md",
     "attachments/concentrationGradients.png",
     "attachments/sodiumPump.png",
     "attachments/pumpProteins.png",
     "attachments/diffusionTypes.png",
     "attachments/phospholipidBilayer.png",
-    "Part_1.md",
     "README.md",
     "attachments/bilayerImage.png",
     "attachments/phospholipidBilayers.png",
