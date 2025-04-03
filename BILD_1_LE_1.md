@@ -4,7 +4,6 @@ type: lecture
 lecture_num: 1
 date: 3/31
 ---
-
 # BILD 1 Lecture 1
 - ## 3/31
 ## Core Concepts
@@ -29,10 +28,15 @@ date: 3/31
 - Cells arise from pre-existing cells.
 	- *Cells divide!*
 ##### All cells have:
-1) plasma membrane, an outer covering that separates the cell’s interior from its surrounding environment
-2) cytoplasm, consisting of a jelly-like region within the cell in which other cellular components are found
-3) DNA, the genetic material of the cell
-4) ribosomes, particles that synthesize proteins
+1) **plasma membrane**, 
+	- an outer covering that separates the cell’s interior from its surrounding environment
+2) **cytoplasm**, 
+	- consisting of a jelly-like region within the cell 
+		- in which other cellular components are found
+3) **DNA**, 
+	- the genetic material of the cell
+4) **ribosomes**, 
+	- particles that synthesize proteins
 #### Two types of cells:
 ##### Prokaryotes
 - Bacteria, archaea
