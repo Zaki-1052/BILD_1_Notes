@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "BILD_1_LE_2"
             }
+          },
+          {
+            "id": "4bec4d0f802e3776",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BILD_1_LE_3.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "BILD_1_LE_3"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -88,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cyst",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -256,16 +280,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "65b2e9537c45ceab",
+  "active": "4bec4d0f802e3776",
   "lastOpenFiles": [
-    "attachments/covalentBonding.png",
-    "attachments/doubleHelix.png.png",
-    "attachments/hydrogenBond.png",
+    "attachments/aminoAcidMonomers.png",
+    "attachments/aminoAcidParts.png",
+    "attachments/proteinRoles.png",
+    "attachments/nucleicAcidsSummary.png",
+    "attachments/freeOHs.png",
+    "attachments/RNAvDNA.png",
+    "attachments/centralDogma.png",
+    "attachments/basePairing.png",
+    "attachments/hydrogenBonding.png",
+    "attachments/DNAStructure.png",
+    "attachments/nucleicAcids.png",
     "BILD_1_LE_2.md",
-    "attachments/sodiumChloride.png",
-    "attachments/covalentBonds.png",
-    "attachments/electronDistribution.png",
-    "attachments/electronShells.png",
+    "BILD_1_LE_3.md",
+    "Old/BILD_1_LE_4.md",
     "attachments",
     "BILD_1_LE_1.md",
     "Untitled.md",
@@ -277,7 +307,6 @@
     "Old/BILD_1_LE_11.md",
     "Old/BILD_1_LE_13.md",
     "Old/BILD_1_LE_7.md",
-    "Old/BILD_1_LE_4.md",
     "Old/BILD_1_LE_8.md",
     "Old/BILD_1_LE_12.md",
     "Old/BILD_1_LE_2.md",
@@ -285,10 +314,6 @@
     "Old/BILD_1_LE_6.md",
     "Old/BILD_1_LE_5.md",
     "- ## 1",
-    "Old/attachments/concentrationGradients.png",
-    "Old/attachments/sodiumPump.png",
-    "Old/attachments/pumpProteins.png",
-    "Old/attachments/diffusionTypes.png",
     "Old/README.md",
     "Old/attachments",
     "_templates/lecture_template.md.md",
@@ -298,7 +323,6 @@
     "_templates/cse_87_template.md.md",
     "CSE_8A/Lectures/CSE_8A_Lectures.md",
     "CSE_8A/Lectures/CSE_8A_LE_20.md",
-    "CSE_8A/CSE_8A_Work_ToC.md",
     "_templates",
     "BILD_5/Lectures",
     "BILD_5",
