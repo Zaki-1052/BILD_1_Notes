@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "BILD_1_LE_3"
             }
+          },
+          {
+            "id": "1b64fe84ad3296c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BILD_1_LE_4.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "BILD_1_LE_4"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -280,8 +304,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4bec4d0f802e3776",
+  "active": "1b64fe84ad3296c5",
   "lastOpenFiles": [
+    "BILD_1_LE_3.md",
+    "BILD_1_LE_4.md",
+    "attachments/aminoAcidMonomers.jpeg",
+    "attachments/aminoAcidMonomers Small.jpeg",
     "attachments/aminoAcidMonomers.png",
     "attachments/aminoAcidParts.png",
     "attachments/proteinRoles.png",
@@ -290,11 +318,7 @@
     "attachments/RNAvDNA.png",
     "attachments/centralDogma.png",
     "attachments/basePairing.png",
-    "attachments/hydrogenBonding.png",
-    "attachments/DNAStructure.png",
-    "attachments/nucleicAcids.png",
     "BILD_1_LE_2.md",
-    "BILD_1_LE_3.md",
     "Old/BILD_1_LE_4.md",
     "attachments",
     "BILD_1_LE_1.md",
